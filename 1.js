@@ -1,4 +1,4 @@
 hello
 world
 something
-the hacking school
+the hacking school coding bootcamp
