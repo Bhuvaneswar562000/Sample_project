@@ -1,4 +1,2 @@
-hello
-world
-something
-the hacking school coding bootcamp
+hello THS
+hi evryone
